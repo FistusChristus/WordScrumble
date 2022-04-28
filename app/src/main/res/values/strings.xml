@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WordScramble</string>
+    <string name="submit_button">click</string>
+    <string name="gameTitleText">Word Scramble</string>
+    <string name="tutorialText">Scrambled word</string>
+    <string-array name="words">
+        <item>Label</item>
+        <item>world</item>
+        <item>hello</item>
+        <item>aboba</item>
+    </string-array>
+</resources>
