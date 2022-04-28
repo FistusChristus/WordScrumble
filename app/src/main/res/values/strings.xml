@@ -4,9 +4,14 @@
     <string name="gameTitleText">Word Scramble</string>
     <string name="tutorialText">Scrambled word</string>
     <string-array name="words">
-        <item>Label</item>
-        <item>world</item>
-        <item>hello</item>
-        <item>aboba</item>
+        <item>master</item>
+        <item>chocolate</item>
+        <item>mistress</item>
+        <item>candy</item>
+        <item>keyboard</item>
+        <item>lamp</item>
+        <item>poster</item>
+        <item>charger</item>
+        <item>mouse</item>
     </string-array>
 </resources>
